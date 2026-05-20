@@ -5,9 +5,9 @@ Se precisar consultar o [Markdown](https://www.markdownguide.org/basic-syntax/#l
 
  [Acessar area Linux](#Linux)
 
-Acessar area Windows
+ [Acessar area Windows](#Windows)
 
-Acessar informações complementares
+ [Acessar informações complementares](#Windows)
 
 
 
