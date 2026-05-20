@@ -15,7 +15,7 @@ Se precisar consultar o [Markdown](https://www.markdownguide.org/basic-syntax/#l
 
 > ### Linux
 > 
-  ### Comandos básicos do Linux
+  ###### Comandos básicos do Linux
   
 - sudo apt install x (instala o programa x)
     
@@ -27,7 +27,7 @@ Se precisar consultar o [Markdown](https://www.markdownguide.org/basic-syntax/#l
 
 > ## Windows
 > 
-  ### Comandos básicos do Windows
+  ###### Comandos básicos do Windows
  
 
 [voltar para o topo](#Disciplina)
