@@ -3,11 +3,11 @@ Se precisar consultar o [Markdown](https://www.markdownguide.org/basic-syntax/#l
 
 > # Disciplina Configuração de Software
 
- [Acessar area Linux](#Linux)
+ [Acessar Linux](#Linux)
 
- [Acessar area Windows](#Windows)
+ [Acessar Windows](#Windows)
 
- [Acessar informações complementares](#Windows)
+ [Acessar Informações Complementares](#Informações Complementares)
 
 
 
