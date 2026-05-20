@@ -7,7 +7,7 @@ Se precisar consultar o [Markdown](https://www.markdownguide.org/basic-syntax/#l
 
  [Acessar Windows](#Windows)
 
- [Acessar Informações Complementares](#InformaçõesComplementares)
+ [Acessar Informações Complementares](#Complementares)
 
 
 
