@@ -23,14 +23,14 @@ Se precisar consultar o [Markdown](https://www.markdownguide.org/basic-syntax/#l
     
 - sudo apt search (procurar programas/pacotes)
 - 
-[voltar para o topo](#Disciplina)
+[voltar para o topo](#Software)
 
 > ## Windows
 > 
   ###### Comandos básicos do Windows
  
 
-[voltar para o topo](#Disciplina)
+[voltar para o topo](#Configuração)
 
 > ## Informações Complementares
 
